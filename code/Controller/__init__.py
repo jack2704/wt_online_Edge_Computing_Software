@@ -1,0 +1,1 @@
+'''Responsible for communicating with devices-work that is done is written here '''

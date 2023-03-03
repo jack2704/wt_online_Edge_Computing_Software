@@ -1,0 +1,1 @@
+'''Where the logic is defined- where it is determined how the device is to be used for the experiment'''
